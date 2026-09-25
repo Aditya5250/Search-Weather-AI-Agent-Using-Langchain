@@ -6,4 +6,4 @@ langchain-google-genai==2.1.8
 requests==2.31.0
 tavily-python
 python-dotenv
-streamlit
+streamlit 
