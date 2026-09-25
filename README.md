@@ -1,1 +1,8 @@
-# Search-Weather-AI-Agent-Using-Langchain
+
+# Setup
+
+Conda create -n langagent python=3.11 -y
+
+conda activate langagent
+
+pip install -r requirements.txt
